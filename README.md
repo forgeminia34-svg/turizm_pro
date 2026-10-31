@@ -76,3 +76,4 @@ Hech qanday murakkab server yoki kutubxona o'rnatish talab qilinmaydi!
 - **Tailwind CSS (CDN):** Zamonaviy dizayn, moslashuvchan (Responsive) layout va dark mode
 - **JavaScript (Vanilla ES6+):** Reaktiv filtrlash, kalkulyator, mahalliy xotira (localStorage), modal va xabarnomalar
 - **Unsplash Photography:** Yuqori sifatli sayyohlik suratlari
+"# turizm_pro" 
